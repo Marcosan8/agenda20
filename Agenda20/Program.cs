@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Bienvenido a mi lista de Contactes");
 
-
+//
 //names, lastnames, addresses, telephones, emails, ages, bestfriend
 bool runing = true;
 List<int> ids = new List<int>();
